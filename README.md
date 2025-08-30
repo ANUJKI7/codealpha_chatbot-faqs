@@ -7,8 +7,7 @@ It’s fully customizable and can be extended into a smart assistant with NLP or
 ---
 
 ## ✨ Features  
-- Instant responses to predefined FAQs  
-- Easy-to-edit Q&A database (JSON)  
+- Instant responses to predefined FAQs    
 - Beginner-friendly code structure  
 - Works via CLI (and can be extended to web/app integration)  
 
@@ -16,8 +15,6 @@ It’s fully customizable and can be extended into a smart assistant with NLP or
 
 ## 🛠️ Tech Stack  
 - **Language:** Python  
-- **Data Storage:** JSON (for FAQs)  
-- **Optional:** Flask (for web version)  
 
 ---
 
@@ -27,6 +24,4 @@ It’s fully customizable and can be extended into a smart assistant with NLP or
 3. If a match is found, it replies instantly.  
 4. If no match is found, it gives a fallback response.  
 
----
-
-## 📂 Project Structure  
+-- 
